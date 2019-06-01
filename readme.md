@@ -1,2 +1,2 @@
 プライバシーポリシー
-https://github.com/mirenn/2DBattleShootingGame_Monolith/blob/master/docs/PrivacyPolicy/Japanese.html
+https://mirenn.github.io/2DBattleShootingGame_Monolith/PrivacyPolicy/Japanese.html
